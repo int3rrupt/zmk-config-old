@@ -43,7 +43,7 @@
 
         lower_layer {
             bindings = <
-                &none   &kp ESC     &none       &none       &none       &none                       &kp BSLH    &kp SQT     &kp LBRC    &kp RBRC    &kp GRAVE   &none
+                &none   &kp ESC     &none       &none       &none       &none                       &kp BSLH    &kp SQT     &kp LBKT    &kp RBKT    &kp GRAVE   &none
                 &none   &kp LCTRL   &kp LALT    &kp LGUI    &kp LSHFT   &none                       &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &kp RET     &none
                 &none   &none       &none       &none       &none       &none                       &kp HOME    &kp PG_DN   &kp PG_UP   &kp END     &kp DEL     &none
                                                             &trans      &trans  &trans      &trans  &trans      &trans
